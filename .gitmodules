@@ -1,3 +1,4 @@
 [submodule "themes/shoka"]
     path = themes/shoka
     url = https://github.com/Luotianyi-0712/hexo-theme-shoka.git
+    branch = byd
