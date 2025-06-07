@@ -77,14 +77,15 @@ valine:
       - deea5a8d259d17182a53be1772e4c182
 
 # bgm
-audio:
-   - title: 列表1
-      list:
-        - https://music.163.com/#/playlist?id=2943811283
-        - https://music.163.com/#/playlist?id=2297706586
-   - title: 列表2
-      list:
-        - https://music.163.com/#/playlist?id=2031842656
+# ---------------------------------------------------------------
+#audio:
+#   - title: 列表1
+#      list:
+#        - https://music.163.com/#/playlist?id=2943811283
+#   - title: 列表2
+#      list:
+#        - https://music.163.com/#/playlist?id=2031842656
+# ---------------------------------------------------------------
 
 # Dependencies: https://github.com/amehime/hexo-renderer-multi-markdown-it
 pangu: true
