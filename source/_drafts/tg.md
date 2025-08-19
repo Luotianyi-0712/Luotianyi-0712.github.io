@@ -5,7 +5,7 @@ date: '2025-08-19T19:01:51.127474+08:00'
 tags:
 - telegram
 - 网络安全
-title: telegram 到底有不安全？你真以为查不到 tg 对应的手机号吗？
+title: telegram 到底有不安全？你真以为tg是安全的加密聊天软件吗？
 updated: '2025-08-19T19:05:03.672+08:00'
 ---
 最近又双叒在L站看到了一篇文章说因为用 tg 而被叫去喝茶问候并查信息的文章 [https://linux.do/t/topic/880808](https://linux.do/t/topic/880808)
