@@ -1,5 +1,5 @@
 ---
-abbrlink: ''
+abbrlink: tg二三事
 categories: []
 date: '2025-08-19T19:01:51.127474+08:00'
 tags:
