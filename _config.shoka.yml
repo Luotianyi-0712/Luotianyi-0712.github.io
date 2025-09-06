@@ -23,7 +23,7 @@ menu:
     tags: /tags/ || tags
   friends: /links/ || heart
   about: /about/ || user
-  talk: /talks/ || message-circle
+  talk: /talks/ || star
 
 # Social Links
 # Usage: `Key: permalink || icon || color`
