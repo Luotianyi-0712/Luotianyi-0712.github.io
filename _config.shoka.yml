@@ -30,13 +30,13 @@ menu:
 # Value before `||` delimiter is the target permalink,
 # secend value is the name of Font icon.
 social:
-  github: https://github.com/amehime || github || "#191717"
+  github: https://github.com/Luotianyi-0712 || github || "#191717"
   #google: https://plus.google.com/yourname || google
-  twitter: https://twitter.com/amehime || twitter || "#00aff0"
-  zhihu: https://www.zhihu.com/people/rurismzk || zhihu || "#1e88e5"
+  #twitter: https://twitter.com/amehime || twitter || "#00aff0"
+  #zhihu: https://www.zhihu.com/people/rurismzk || zhihu || "#1e88e5"
   music: https://music.163.com/#/user/home?id=12886823 || cloud-music || "#e60026"
-  weibo: https://weibo.com/amehime || weibo || "#ea716e"
-  about: https://about.me/amehime || address-card || "#3b5998"
+  #weibo: https://weibo.com/amehime || weibo || "#ea716e"
+  #about: https://about.me/amehime || address-card || "#3b5998"
   #email: mailto:yourname@mail.com || envelope || "#55acd5"
   #facebook: https://www.facebook.com/yourname || facebook
   #stackoverflow: https://stackoverflow.com/yourname || stack-overflow
@@ -103,13 +103,3 @@ disable_baidu_transformation: true
 exturl: true
 # 自定义图片api
 image_server: "https://www.dmoe.cc/random.php"
-
-# 赞赏配置
-reward:
-  # 是否启用赞赏功能
-  enable: fasle
-  # 赞赏图片配置
-  account:
-    wechatpay: /wechatpay.png    # 微信支付二维码
-    alipay: /alipay.png          # 支付宝二维码
-    paypal: /paypal.png          # PayPal二维码
