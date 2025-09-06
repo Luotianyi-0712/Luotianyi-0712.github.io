@@ -1,12 +1,9 @@
 ---
-title: links
+title: 友链
 date: 2025-09-06 14:19:28
+type: page
+layout: page
 ---
-
-<div id="qexo-friends"></div>
-<link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css"/>
-<script src="https://registry.npmmirror.com/qexo-static/1.6.0/files/hexo/friends.js"></script>
-<script>loadQexoFriends("qexo-friends", "https://wp.cupcat.eu.org")</script>
 
 # [](#本站信息) 本站信息
 
@@ -33,4 +30,7 @@ date: 2025-09-06 14:19:28
 
 # [](#小伙伴们) 小伙伴们
 
-
+<div id="qexo-friends"></div>
+<link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css"/>
+<script src="https://registry.npmmirror.com/qexo-static/1.6.0/files/hexo/friends.js"></script>
+<script>loadQexoFriends("qexo-friends", "https://wp.cupcat.eu.org")</script>
