@@ -3,7 +3,9 @@
 * 站名： 淡忘博客
 * 站长： 若梦依然
 * 地址： <https://cupcat.eu.org/>
-* 标志： ![依然]()
+* 标志：
+* 
+![依然](https://github.com/Luotianyi-0712/Luotianyi-0712.github.io/blob/gh-pages/source/images/404.png)
 * 简介： 依然的碎碎念 & 编程笔记
 
 # [#](#申请方法) 申请方法
