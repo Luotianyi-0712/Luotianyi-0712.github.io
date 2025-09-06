@@ -21,7 +21,7 @@ menu:
     archives: /archives/ || list-alt
     categories: /categories/ || th
     tags: /tags/ || tags
-  friends: /friends/ || heart
+  friends: /links/ || heart
   about: /about/ || user
 
 # Social Links
